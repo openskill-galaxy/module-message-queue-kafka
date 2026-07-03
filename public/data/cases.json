@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "mq-case-001",
+    "title": "订单异步通知案例1",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001472",
+      "mq-q-002393",
+      "mq-q-003141"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-002",
+    "title": "秒杀削峰案例2",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001184",
+      "mq-q-000039",
+      "mq-q-003198"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-003",
+    "title": "库存扣减案例3",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002436",
+      "mq-q-002317",
+      "mq-q-003243"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-004",
+    "title": "支付回调案例4",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003269",
+      "mq-q-003220",
+      "mq-q-003582"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-005",
+    "title": "短信发送案例5",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000458",
+      "mq-q-002728",
+      "mq-q-001053"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-006",
+    "title": "邮件发送案例6",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001573",
+      "mq-q-001569",
+      "mq-q-000922"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-007",
+    "title": "日志采集案例7",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003550",
+      "mq-q-000286",
+      "mq-q-001931"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-008",
+    "title": "用户行为埋点案例8",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003435",
+      "mq-q-001553",
+      "mq-q-002422"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-009",
+    "title": "Kafka消费组案例9",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000449",
+      "mq-q-003171",
+      "mq-q-002792"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-010",
+    "title": "消息重复案例10",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001504",
+      "mq-q-000190",
+      "mq-q-003001"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-011",
+    "title": "消息丢失案例11",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002221",
+      "mq-q-000915",
+      "mq-q-001436"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-012",
+    "title": "积压治理案例12",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000016",
+      "mq-q-002357",
+      "mq-q-003360"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-013",
+    "title": "顺序消息案例13",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001904",
+      "mq-q-000707",
+      "mq-q-002988"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-014",
+    "title": "死信队列案例14",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001271",
+      "mq-q-002357",
+      "mq-q-001821"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-015",
+    "title": "延迟消息案例15",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001176",
+      "mq-q-000256",
+      "mq-q-000603"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-016",
+    "title": "分布式事务案例16",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003130",
+      "mq-q-000637",
+      "mq-q-001931"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-017",
+    "title": "Outbox模式案例17",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001062",
+      "mq-q-000496",
+      "mq-q-001368"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-018",
+    "title": "RabbitMQ路由案例18",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001755",
+      "mq-q-001719",
+      "mq-q-003401"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-019",
+    "title": "Kafka面试案例19",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001112",
+      "mq-q-003076",
+      "mq-q-001955"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-020",
+    "title": "订单异步通知案例20",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000346",
+      "mq-q-003456",
+      "mq-q-000670"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-021",
+    "title": "秒杀削峰案例21",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003193",
+      "mq-q-000900",
+      "mq-q-003572"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-022",
+    "title": "库存扣减案例22",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002453",
+      "mq-q-002991",
+      "mq-q-002779"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-023",
+    "title": "支付回调案例23",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001743",
+      "mq-q-002917",
+      "mq-q-003224"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-024",
+    "title": "短信发送案例24",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000630",
+      "mq-q-003108",
+      "mq-q-002996"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-025",
+    "title": "邮件发送案例25",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002013",
+      "mq-q-002244",
+      "mq-q-000111"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-026",
+    "title": "日志采集案例26",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000005",
+      "mq-q-002090",
+      "mq-q-000705"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-027",
+    "title": "用户行为埋点案例27",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000083",
+      "mq-q-002523",
+      "mq-q-001207"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-028",
+    "title": "Kafka消费组案例28",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000430",
+      "mq-q-002184",
+      "mq-q-003164"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-029",
+    "title": "消息重复案例29",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002484",
+      "mq-q-003480",
+      "mq-q-001662"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-030",
+    "title": "消息丢失案例30",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001994",
+      "mq-q-002613",
+      "mq-q-001696"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-031",
+    "title": "积压治理案例31",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001418",
+      "mq-q-002020",
+      "mq-q-003107"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-032",
+    "title": "顺序消息案例32",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002451",
+      "mq-q-003292",
+      "mq-q-003615"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-033",
+    "title": "死信队列案例33",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000899",
+      "mq-q-000127",
+      "mq-q-000950"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-034",
+    "title": "延迟消息案例34",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002751",
+      "mq-q-000615",
+      "mq-q-000800"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-035",
+    "title": "分布式事务案例35",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002502",
+      "mq-q-001230",
+      "mq-q-002186"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-036",
+    "title": "Outbox模式案例36",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000968",
+      "mq-q-002146",
+      "mq-q-001311"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-037",
+    "title": "RabbitMQ路由案例37",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000108",
+      "mq-q-000400",
+      "mq-q-003575"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-038",
+    "title": "Kafka面试案例38",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002716",
+      "mq-q-001865",
+      "mq-q-002595"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-039",
+    "title": "订单异步通知案例39",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001264",
+      "mq-q-002673",
+      "mq-q-003085"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-040",
+    "title": "秒杀削峰案例40",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000142",
+      "mq-q-003266",
+      "mq-q-002492"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-041",
+    "title": "库存扣减案例41",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002951",
+      "mq-q-002492",
+      "mq-q-000799"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-042",
+    "title": "支付回调案例42",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002216",
+      "mq-q-002693",
+      "mq-q-000952"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-043",
+    "title": "短信发送案例43",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000737",
+      "mq-q-001692",
+      "mq-q-000484"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-044",
+    "title": "邮件发送案例44",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000513",
+      "mq-q-000698",
+      "mq-q-001460"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-045",
+    "title": "日志采集案例45",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002670",
+      "mq-q-000892",
+      "mq-q-002959"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-046",
+    "title": "用户行为埋点案例46",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003101",
+      "mq-q-002289",
+      "mq-q-000103"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-047",
+    "title": "Kafka消费组案例47",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003370",
+      "mq-q-003487",
+      "mq-q-000477"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-048",
+    "title": "消息重复案例48",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003072",
+      "mq-q-001484",
+      "mq-q-000662"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-049",
+    "title": "消息丢失案例49",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001389",
+      "mq-q-000521",
+      "mq-q-002650"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-050",
+    "title": "积压治理案例50",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001021",
+      "mq-q-000097",
+      "mq-q-003207"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-051",
+    "title": "顺序消息案例51",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003679",
+      "mq-q-001461",
+      "mq-q-000631"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-052",
+    "title": "死信队列案例52",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001632",
+      "mq-q-003058",
+      "mq-q-002786"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-053",
+    "title": "延迟消息案例53",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002930",
+      "mq-q-002816",
+      "mq-q-000279"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-054",
+    "title": "分布式事务案例54",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000577",
+      "mq-q-000069",
+      "mq-q-003006"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-055",
+    "title": "Outbox模式案例55",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000766",
+      "mq-q-000517",
+      "mq-q-001334"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-056",
+    "title": "RabbitMQ路由案例56",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001463",
+      "mq-q-001230",
+      "mq-q-000189"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-057",
+    "title": "Kafka面试案例57",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000646",
+      "mq-q-001102",
+      "mq-q-003087"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-058",
+    "title": "订单异步通知案例58",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002179",
+      "mq-q-002709",
+      "mq-q-000179"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-059",
+    "title": "秒杀削峰案例59",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002295",
+      "mq-q-003371",
+      "mq-q-003452"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-060",
+    "title": "库存扣减案例60",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001668",
+      "mq-q-000240",
+      "mq-q-000990"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-061",
+    "title": "支付回调案例61",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001507",
+      "mq-q-002505",
+      "mq-q-000652"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-062",
+    "title": "短信发送案例62",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001513",
+      "mq-q-003406",
+      "mq-q-003411"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-063",
+    "title": "邮件发送案例63",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002789",
+      "mq-q-001544",
+      "mq-q-003612"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-064",
+    "title": "日志采集案例64",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000925",
+      "mq-q-001064",
+      "mq-q-003698"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-065",
+    "title": "用户行为埋点案例65",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003053",
+      "mq-q-001275",
+      "mq-q-002129"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-066",
+    "title": "Kafka消费组案例66",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003451",
+      "mq-q-003464",
+      "mq-q-003497"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-067",
+    "title": "消息重复案例67",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003401",
+      "mq-q-001306",
+      "mq-q-001511"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-068",
+    "title": "消息丢失案例68",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002519",
+      "mq-q-001410",
+      "mq-q-002610"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-069",
+    "title": "积压治理案例69",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002317",
+      "mq-q-001934",
+      "mq-q-000108"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-070",
+    "title": "顺序消息案例70",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000282",
+      "mq-q-002376",
+      "mq-q-000054"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-071",
+    "title": "死信队列案例71",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002114",
+      "mq-q-002170",
+      "mq-q-000871"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-072",
+    "title": "延迟消息案例72",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002395",
+      "mq-q-003363",
+      "mq-q-001321"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-073",
+    "title": "分布式事务案例73",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003341",
+      "mq-q-001173",
+      "mq-q-001889"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-074",
+    "title": "Outbox模式案例74",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002568",
+      "mq-q-000844",
+      "mq-q-001520"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-075",
+    "title": "RabbitMQ路由案例75",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001660",
+      "mq-q-000516",
+      "mq-q-002276"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-076",
+    "title": "Kafka面试案例76",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000834",
+      "mq-q-002791",
+      "mq-q-003083"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-077",
+    "title": "订单异步通知案例77",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001031",
+      "mq-q-001665",
+      "mq-q-003645"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-078",
+    "title": "秒杀削峰案例78",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003614",
+      "mq-q-002468",
+      "mq-q-000649"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-079",
+    "title": "库存扣减案例79",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000104",
+      "mq-q-002782",
+      "mq-q-003403"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-080",
+    "title": "支付回调案例80",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002354",
+      "mq-q-000806",
+      "mq-q-002339"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-081",
+    "title": "短信发送案例81",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001704",
+      "mq-q-003339",
+      "mq-q-000479"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-082",
+    "title": "邮件发送案例82",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000925",
+      "mq-q-001099",
+      "mq-q-000971"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-083",
+    "title": "日志采集案例83",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003627",
+      "mq-q-000516",
+      "mq-q-002147"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-084",
+    "title": "用户行为埋点案例84",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003368",
+      "mq-q-001067",
+      "mq-q-000281"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-085",
+    "title": "Kafka消费组案例85",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003160",
+      "mq-q-001492",
+      "mq-q-001774"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-086",
+    "title": "消息重复案例86",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001223",
+      "mq-q-002710",
+      "mq-q-001160"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-087",
+    "title": "消息丢失案例87",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000783",
+      "mq-q-000041",
+      "mq-q-001801"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-088",
+    "title": "积压治理案例88",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000536",
+      "mq-q-000737",
+      "mq-q-001290"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-089",
+    "title": "顺序消息案例89",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002571",
+      "mq-q-002485",
+      "mq-q-003392"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-090",
+    "title": "死信队列案例90",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002841",
+      "mq-q-003255",
+      "mq-q-002052"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-091",
+    "title": "延迟消息案例91",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000852",
+      "mq-q-003408",
+      "mq-q-000555"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-092",
+    "title": "分布式事务案例92",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003685",
+      "mq-q-001688",
+      "mq-q-001251"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-093",
+    "title": "Outbox模式案例93",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000439",
+      "mq-q-002876",
+      "mq-q-000394"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-094",
+    "title": "RabbitMQ路由案例94",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001142",
+      "mq-q-003206",
+      "mq-q-003358"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-095",
+    "title": "Kafka面试案例95",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002622",
+      "mq-q-002801",
+      "mq-q-003085"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-096",
+    "title": "订单异步通知案例96",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003268",
+      "mq-q-001803",
+      "mq-q-002816"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-097",
+    "title": "秒杀削峰案例97",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001115",
+      "mq-q-003301",
+      "mq-q-002217"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-098",
+    "title": "库存扣减案例98",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003201",
+      "mq-q-003540",
+      "mq-q-000319"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-099",
+    "title": "支付回调案例99",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002399",
+      "mq-q-001077",
+      "mq-q-000544"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-100",
+    "title": "短信发送案例100",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000029",
+      "mq-q-003330",
+      "mq-q-000780"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-101",
+    "title": "邮件发送案例101",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001730",
+      "mq-q-000099",
+      "mq-q-001869"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-102",
+    "title": "日志采集案例102",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002063",
+      "mq-q-000747",
+      "mq-q-003489"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-103",
+    "title": "用户行为埋点案例103",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003286",
+      "mq-q-001771",
+      "mq-q-002277"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-104",
+    "title": "Kafka消费组案例104",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002190",
+      "mq-q-001529",
+      "mq-q-000804"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-105",
+    "title": "消息重复案例105",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003165",
+      "mq-q-002307",
+      "mq-q-003018"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-106",
+    "title": "消息丢失案例106",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003214",
+      "mq-q-000962",
+      "mq-q-002605"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-107",
+    "title": "积压治理案例107",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001151",
+      "mq-q-003373",
+      "mq-q-002681"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-108",
+    "title": "顺序消息案例108",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001734",
+      "mq-q-000426",
+      "mq-q-003615"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-109",
+    "title": "死信队列案例109",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000761",
+      "mq-q-001627",
+      "mq-q-000881"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-110",
+    "title": "延迟消息案例110",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000575",
+      "mq-q-001102",
+      "mq-q-000310"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-111",
+    "title": "分布式事务案例111",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000857",
+      "mq-q-001691",
+      "mq-q-001870"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-112",
+    "title": "Outbox模式案例112",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000600",
+      "mq-q-002167",
+      "mq-q-001800"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-113",
+    "title": "RabbitMQ路由案例113",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002073",
+      "mq-q-001998",
+      "mq-q-000512"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-114",
+    "title": "Kafka面试案例114",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002250",
+      "mq-q-002316",
+      "mq-q-000285"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-115",
+    "title": "订单异步通知案例115",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000113",
+      "mq-q-003424",
+      "mq-q-002319"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-116",
+    "title": "秒杀削峰案例116",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000241",
+      "mq-q-002314",
+      "mq-q-000077"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-117",
+    "title": "库存扣减案例117",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001616",
+      "mq-q-002253",
+      "mq-q-000709"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-118",
+    "title": "支付回调案例118",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002302",
+      "mq-q-002112",
+      "mq-q-001452"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-119",
+    "title": "短信发送案例119",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000033",
+      "mq-q-000776",
+      "mq-q-000839"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-120",
+    "title": "邮件发送案例120",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000126",
+      "mq-q-000501",
+      "mq-q-003395"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-121",
+    "title": "日志采集案例121",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000602",
+      "mq-q-002519",
+      "mq-q-000849"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-122",
+    "title": "用户行为埋点案例122",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000214",
+      "mq-q-001080",
+      "mq-q-001994"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-123",
+    "title": "Kafka消费组案例123",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002139",
+      "mq-q-003132",
+      "mq-q-000967"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-124",
+    "title": "消息重复案例124",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002063",
+      "mq-q-001725",
+      "mq-q-001489"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-125",
+    "title": "消息丢失案例125",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000554",
+      "mq-q-003634",
+      "mq-q-000145"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-126",
+    "title": "积压治理案例126",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003480",
+      "mq-q-002213",
+      "mq-q-002522"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-127",
+    "title": "顺序消息案例127",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002759",
+      "mq-q-001161",
+      "mq-q-003452"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-128",
+    "title": "死信队列案例128",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003193",
+      "mq-q-003274",
+      "mq-q-000557"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-129",
+    "title": "延迟消息案例129",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001084",
+      "mq-q-000136",
+      "mq-q-000116"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-130",
+    "title": "分布式事务案例130",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002871",
+      "mq-q-001179",
+      "mq-q-003324"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-131",
+    "title": "Outbox模式案例131",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002195",
+      "mq-q-001243",
+      "mq-q-002917"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-132",
+    "title": "RabbitMQ路由案例132",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001248",
+      "mq-q-000518",
+      "mq-q-003467"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-133",
+    "title": "Kafka面试案例133",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003091",
+      "mq-q-001384",
+      "mq-q-000251"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-134",
+    "title": "订单异步通知案例134",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000606",
+      "mq-q-001996",
+      "mq-q-002040"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-135",
+    "title": "秒杀削峰案例135",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000042",
+      "mq-q-001181",
+      "mq-q-002385"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-136",
+    "title": "库存扣减案例136",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000523",
+      "mq-q-000469",
+      "mq-q-000125"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-137",
+    "title": "支付回调案例137",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002241",
+      "mq-q-001390",
+      "mq-q-002984"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-138",
+    "title": "短信发送案例138",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002414",
+      "mq-q-001341",
+      "mq-q-001331"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-139",
+    "title": "邮件发送案例139",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000161",
+      "mq-q-002074",
+      "mq-q-000485"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-140",
+    "title": "日志采集案例140",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002600",
+      "mq-q-001863",
+      "mq-q-002652"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-141",
+    "title": "用户行为埋点案例141",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001342",
+      "mq-q-001133",
+      "mq-q-002525"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-142",
+    "title": "Kafka消费组案例142",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000165",
+      "mq-q-000989",
+      "mq-q-001878"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-143",
+    "title": "消息重复案例143",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000731",
+      "mq-q-002031",
+      "mq-q-001770"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-144",
+    "title": "消息丢失案例144",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002687",
+      "mq-q-003602",
+      "mq-q-003249"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-145",
+    "title": "积压治理案例145",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002019",
+      "mq-q-003239",
+      "mq-q-001863"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-146",
+    "title": "顺序消息案例146",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002366",
+      "mq-q-001918",
+      "mq-q-002975"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-147",
+    "title": "死信队列案例147",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000824",
+      "mq-q-002783",
+      "mq-q-001923"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-148",
+    "title": "延迟消息案例148",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003464",
+      "mq-q-002138",
+      "mq-q-002108"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-149",
+    "title": "分布式事务案例149",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002876",
+      "mq-q-000882",
+      "mq-q-001206"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-150",
+    "title": "Outbox模式案例150",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003569",
+      "mq-q-000278",
+      "mq-q-000609"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-151",
+    "title": "RabbitMQ路由案例151",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002574",
+      "mq-q-002650",
+      "mq-q-002562"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-152",
+    "title": "Kafka面试案例152",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000883",
+      "mq-q-001230",
+      "mq-q-001409"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-153",
+    "title": "订单异步通知案例153",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000233",
+      "mq-q-001851",
+      "mq-q-000332"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-154",
+    "title": "秒杀削峰案例154",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002525",
+      "mq-q-003314",
+      "mq-q-001008"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-155",
+    "title": "库存扣减案例155",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003373",
+      "mq-q-003074",
+      "mq-q-000300"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-156",
+    "title": "支付回调案例156",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001591",
+      "mq-q-002169",
+      "mq-q-001928"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-157",
+    "title": "短信发送案例157",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002973",
+      "mq-q-000049",
+      "mq-q-001950"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-158",
+    "title": "邮件发送案例158",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002476",
+      "mq-q-003143",
+      "mq-q-002661"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-159",
+    "title": "日志采集案例159",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000786",
+      "mq-q-002362",
+      "mq-q-000021"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-160",
+    "title": "用户行为埋点案例160",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001738",
+      "mq-q-000996",
+      "mq-q-003664"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-161",
+    "title": "Kafka消费组案例161",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002827",
+      "mq-q-001728",
+      "mq-q-002261"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-162",
+    "title": "消息重复案例162",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000040",
+      "mq-q-000658",
+      "mq-q-001340"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-163",
+    "title": "消息丢失案例163",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001305",
+      "mq-q-001684",
+      "mq-q-003395"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-164",
+    "title": "积压治理案例164",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002737",
+      "mq-q-001549",
+      "mq-q-003202"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-165",
+    "title": "顺序消息案例165",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001717",
+      "mq-q-001489",
+      "mq-q-002479"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-166",
+    "title": "死信队列案例166",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001913",
+      "mq-q-000868",
+      "mq-q-003147"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-167",
+    "title": "延迟消息案例167",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002748",
+      "mq-q-002820",
+      "mq-q-000658"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-168",
+    "title": "分布式事务案例168",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000894",
+      "mq-q-002429",
+      "mq-q-002976"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-169",
+    "title": "Outbox模式案例169",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000615",
+      "mq-q-003137",
+      "mq-q-002124"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-170",
+    "title": "RabbitMQ路由案例170",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002417",
+      "mq-q-003510",
+      "mq-q-000037"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-171",
+    "title": "Kafka面试案例171",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002238",
+      "mq-q-002365",
+      "mq-q-000911"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-172",
+    "title": "订单异步通知案例172",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001763",
+      "mq-q-000851",
+      "mq-q-002935"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-173",
+    "title": "秒杀削峰案例173",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001478",
+      "mq-q-000724",
+      "mq-q-000668"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-174",
+    "title": "库存扣减案例174",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001343",
+      "mq-q-002125",
+      "mq-q-001731"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-175",
+    "title": "支付回调案例175",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003450",
+      "mq-q-003135",
+      "mq-q-001712"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-176",
+    "title": "短信发送案例176",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000627",
+      "mq-q-000998",
+      "mq-q-000954"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-177",
+    "title": "邮件发送案例177",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003335",
+      "mq-q-001339",
+      "mq-q-001062"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-178",
+    "title": "日志采集案例178",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002203",
+      "mq-q-000720",
+      "mq-q-003477"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-179",
+    "title": "用户行为埋点案例179",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000257",
+      "mq-q-000244",
+      "mq-q-003692"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-180",
+    "title": "Kafka消费组案例180",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003370",
+      "mq-q-002254",
+      "mq-q-001544"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-181",
+    "title": "消息重复案例181",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003677",
+      "mq-q-001941",
+      "mq-q-002833"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-182",
+    "title": "消息丢失案例182",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002756",
+      "mq-q-000462",
+      "mq-q-001681"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-183",
+    "title": "积压治理案例183",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000342",
+      "mq-q-002793",
+      "mq-q-000099"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-184",
+    "title": "顺序消息案例184",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001261",
+      "mq-q-001738",
+      "mq-q-002979"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-185",
+    "title": "死信队列案例185",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000207",
+      "mq-q-002160",
+      "mq-q-000772"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-186",
+    "title": "延迟消息案例186",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002102",
+      "mq-q-002648",
+      "mq-q-000752"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-187",
+    "title": "分布式事务案例187",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001277",
+      "mq-q-001125",
+      "mq-q-002552"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-188",
+    "title": "Outbox模式案例188",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000111",
+      "mq-q-001160",
+      "mq-q-001709"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-189",
+    "title": "RabbitMQ路由案例189",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002938",
+      "mq-q-002259",
+      "mq-q-003219"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-190",
+    "title": "Kafka面试案例190",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003136",
+      "mq-q-002115",
+      "mq-q-001484"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-191",
+    "title": "订单异步通知案例191",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002306",
+      "mq-q-000619",
+      "mq-q-003236"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-192",
+    "title": "秒杀削峰案例192",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001544",
+      "mq-q-002345",
+      "mq-q-002025"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-193",
+    "title": "库存扣减案例193",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002163",
+      "mq-q-002629",
+      "mq-q-001412"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-194",
+    "title": "支付回调案例194",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000293",
+      "mq-q-002895",
+      "mq-q-003051"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-195",
+    "title": "短信发送案例195",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000457",
+      "mq-q-002362",
+      "mq-q-002654"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-196",
+    "title": "邮件发送案例196",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000006",
+      "mq-q-002832",
+      "mq-q-001138"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-197",
+    "title": "日志采集案例197",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002306",
+      "mq-q-001788",
+      "mq-q-000946"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-198",
+    "title": "用户行为埋点案例198",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002208",
+      "mq-q-000183",
+      "mq-q-001177"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-199",
+    "title": "Kafka消费组案例199",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001081",
+      "mq-q-002882",
+      "mq-q-002190"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-200",
+    "title": "消息重复案例200",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002862",
+      "mq-q-002358",
+      "mq-q-001371"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-201",
+    "title": "消息丢失案例201",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000662",
+      "mq-q-000910",
+      "mq-q-002929"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-202",
+    "title": "积压治理案例202",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002625",
+      "mq-q-003621",
+      "mq-q-001133"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-203",
+    "title": "顺序消息案例203",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002282",
+      "mq-q-001246",
+      "mq-q-001501"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-204",
+    "title": "死信队列案例204",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000301",
+      "mq-q-003374",
+      "mq-q-003206"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-205",
+    "title": "延迟消息案例205",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003426",
+      "mq-q-002524",
+      "mq-q-002337"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-206",
+    "title": "分布式事务案例206",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000715",
+      "mq-q-000944",
+      "mq-q-002018"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-207",
+    "title": "Outbox模式案例207",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001263",
+      "mq-q-000058",
+      "mq-q-002800"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-208",
+    "title": "RabbitMQ路由案例208",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001131",
+      "mq-q-003138",
+      "mq-q-003042"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-209",
+    "title": "Kafka面试案例209",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001020",
+      "mq-q-001285",
+      "mq-q-002314"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-210",
+    "title": "订单异步通知案例210",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001441",
+      "mq-q-000472",
+      "mq-q-001256"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-211",
+    "title": "秒杀削峰案例211",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001474",
+      "mq-q-001534",
+      "mq-q-003204"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-212",
+    "title": "库存扣减案例212",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002271",
+      "mq-q-001819",
+      "mq-q-003009"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-213",
+    "title": "支付回调案例213",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003636",
+      "mq-q-000667",
+      "mq-q-001367"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-214",
+    "title": "短信发送案例214",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000233",
+      "mq-q-002618",
+      "mq-q-003127"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-215",
+    "title": "邮件发送案例215",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000447",
+      "mq-q-002215",
+      "mq-q-001067"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-216",
+    "title": "日志采集案例216",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002185",
+      "mq-q-000322",
+      "mq-q-003613"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-217",
+    "title": "用户行为埋点案例217",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001114",
+      "mq-q-003318",
+      "mq-q-002073"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-218",
+    "title": "Kafka消费组案例218",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000560",
+      "mq-q-001265",
+      "mq-q-001245"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-219",
+    "title": "消息重复案例219",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000906",
+      "mq-q-002249",
+      "mq-q-001723"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-220",
+    "title": "消息丢失案例220",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002921",
+      "mq-q-000979",
+      "mq-q-000131"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-221",
+    "title": "积压治理案例221",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001912",
+      "mq-q-003166",
+      "mq-q-000989"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-222",
+    "title": "顺序消息案例222",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003437",
+      "mq-q-002985",
+      "mq-q-003245"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-223",
+    "title": "死信队列案例223",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000418",
+      "mq-q-000652",
+      "mq-q-003091"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-224",
+    "title": "延迟消息案例224",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000340",
+      "mq-q-002947",
+      "mq-q-000968"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-225",
+    "title": "分布式事务案例225",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001246",
+      "mq-q-001138",
+      "mq-q-000700"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-226",
+    "title": "Outbox模式案例226",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000124",
+      "mq-q-003562",
+      "mq-q-000597"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-227",
+    "title": "RabbitMQ路由案例227",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002140",
+      "mq-q-002993",
+      "mq-q-000068"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-228",
+    "title": "Kafka面试案例228",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002776",
+      "mq-q-002259",
+      "mq-q-001944"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-229",
+    "title": "订单异步通知案例229",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003546",
+      "mq-q-000543",
+      "mq-q-001098"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-230",
+    "title": "秒杀削峰案例230",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000518",
+      "mq-q-001891",
+      "mq-q-001534"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-231",
+    "title": "库存扣减案例231",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003666",
+      "mq-q-003565",
+      "mq-q-001563"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-232",
+    "title": "支付回调案例232",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003170",
+      "mq-q-001803",
+      "mq-q-002276"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-233",
+    "title": "短信发送案例233",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001446",
+      "mq-q-001533",
+      "mq-q-002767"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-234",
+    "title": "邮件发送案例234",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000658",
+      "mq-q-002240",
+      "mq-q-002040"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-235",
+    "title": "日志采集案例235",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000547",
+      "mq-q-002644",
+      "mq-q-003454"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-236",
+    "title": "用户行为埋点案例236",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000987",
+      "mq-q-003256",
+      "mq-q-001841"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-237",
+    "title": "Kafka消费组案例237",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001954",
+      "mq-q-000727",
+      "mq-q-003180"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-238",
+    "title": "消息重复案例238",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002130",
+      "mq-q-000553",
+      "mq-q-001516"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-239",
+    "title": "消息丢失案例239",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003202",
+      "mq-q-003087",
+      "mq-q-001465"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-240",
+    "title": "积压治理案例240",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001109",
+      "mq-q-001979",
+      "mq-q-003237"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-241",
+    "title": "顺序消息案例241",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003392",
+      "mq-q-001808",
+      "mq-q-001897"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-242",
+    "title": "死信队列案例242",
+    "description": "通过死信队列掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003584",
+      "mq-q-003557",
+      "mq-q-003363"
+    ],
+    "tags": [
+      "死信队列"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-243",
+    "title": "延迟消息案例243",
+    "description": "通过延迟消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001267",
+      "mq-q-002587",
+      "mq-q-003152"
+    ],
+    "tags": [
+      "延迟消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-244",
+    "title": "分布式事务案例244",
+    "description": "通过分布式事务掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-001765",
+      "mq-q-001997",
+      "mq-q-000481"
+    ],
+    "tags": [
+      "分布式事务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-245",
+    "title": "Outbox模式案例245",
+    "description": "通过Outbox模式掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002377",
+      "mq-q-000881",
+      "mq-q-002930"
+    ],
+    "tags": [
+      "Outbox模式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-246",
+    "title": "RabbitMQ路由案例246",
+    "description": "通过RabbitMQ路由掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002029",
+      "mq-q-002905",
+      "mq-q-001225"
+    ],
+    "tags": [
+      "RabbitMQ路由"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-247",
+    "title": "Kafka面试案例247",
+    "description": "通过Kafka面试掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000935",
+      "mq-q-002200",
+      "mq-q-002949"
+    ],
+    "tags": [
+      "Kafka面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-248",
+    "title": "订单异步通知案例248",
+    "description": "通过订单异步通知掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002407",
+      "mq-q-001182",
+      "mq-q-002255"
+    ],
+    "tags": [
+      "订单异步通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-249",
+    "title": "秒杀削峰案例249",
+    "description": "通过秒杀削峰掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000851",
+      "mq-q-000058",
+      "mq-q-002929"
+    ],
+    "tags": [
+      "秒杀削峰"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-250",
+    "title": "库存扣减案例250",
+    "description": "通过库存扣减掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003661",
+      "mq-q-002274",
+      "mq-q-000825"
+    ],
+    "tags": [
+      "库存扣减"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-251",
+    "title": "支付回调案例251",
+    "description": "通过支付回调掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002032",
+      "mq-q-002193",
+      "mq-q-000916"
+    ],
+    "tags": [
+      "支付回调"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-252",
+    "title": "短信发送案例252",
+    "description": "通过短信发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000543",
+      "mq-q-000169",
+      "mq-q-000584"
+    ],
+    "tags": [
+      "短信发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-253",
+    "title": "邮件发送案例253",
+    "description": "通过邮件发送掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000822",
+      "mq-q-003611",
+      "mq-q-002716"
+    ],
+    "tags": [
+      "邮件发送"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-254",
+    "title": "日志采集案例254",
+    "description": "通过日志采集掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003628",
+      "mq-q-001100",
+      "mq-q-000975"
+    ],
+    "tags": [
+      "日志采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-255",
+    "title": "用户行为埋点案例255",
+    "description": "通过用户行为埋点掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-000030",
+      "mq-q-003399",
+      "mq-q-001401"
+    ],
+    "tags": [
+      "用户行为埋点"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-256",
+    "title": "Kafka消费组案例256",
+    "description": "通过Kafka消费组掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002604",
+      "mq-q-000951",
+      "mq-q-003578"
+    ],
+    "tags": [
+      "Kafka消费组"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-257",
+    "title": "消息重复案例257",
+    "description": "通过消息重复掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002753",
+      "mq-q-000616",
+      "mq-q-002972"
+    ],
+    "tags": [
+      "消息重复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-258",
+    "title": "消息丢失案例258",
+    "description": "通过消息丢失掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-003015",
+      "mq-q-003087",
+      "mq-q-000756"
+    ],
+    "tags": [
+      "消息丢失"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-259",
+    "title": "积压治理案例259",
+    "description": "通过积压治理掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002104",
+      "mq-q-001838",
+      "mq-q-002416"
+    ],
+    "tags": [
+      "积压治理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-case-260",
+    "title": "顺序消息案例260",
+    "description": "通过顺序消息掌握MQ",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "mq-q-002186",
+      "mq-q-001571",
+      "mq-q-002390"
+    ],
+    "tags": [
+      "顺序消息"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,520 @@
+[
+  {
+    "id": "mq-course-01",
+    "order": 1,
+    "slug": "MQ入门",
+    "title": "消息队列入门与异步架构",
+    "description": "MQ定义、优势、应用场景、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "消息队列入门与异步架构"
+    ],
+    "lessonIds": [
+      "mq-lesson-001",
+      "mq-lesson-002",
+      "mq-lesson-003",
+      "mq-lesson-004",
+      "mq-lesson-005",
+      "mq-lesson-006",
+      "mq-lesson-007",
+      "mq-lesson-008",
+      "mq-lesson-009",
+      "mq-lesson-010",
+      "mq-lesson-011",
+      "mq-lesson-012",
+      "mq-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-02",
+    "order": 2,
+    "slug": "MQ场景",
+    "title": "MQ使用场景：解耦、异步、削峰",
+    "description": "系统解耦、异步处理、削峰填谷案例。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "MQ使用场景：解耦、异步、削峰"
+    ],
+    "lessonIds": [
+      "mq-lesson-014",
+      "mq-lesson-015",
+      "mq-lesson-016",
+      "mq-lesson-017",
+      "mq-lesson-018",
+      "mq-lesson-019",
+      "mq-lesson-020",
+      "mq-lesson-021",
+      "mq-lesson-022",
+      "mq-lesson-023",
+      "mq-lesson-024",
+      "mq-lesson-025",
+      "mq-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-03",
+    "order": 3,
+    "slug": "生产者消费者",
+    "title": "生产者、消费者与消息模型",
+    "description": "消息模型、点对点、发布订阅、消费确认。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "生产者、消费者与消息模型"
+    ],
+    "lessonIds": [
+      "mq-lesson-027",
+      "mq-lesson-028",
+      "mq-lesson-029",
+      "mq-lesson-030",
+      "mq-lesson-031",
+      "mq-lesson-032",
+      "mq-lesson-033",
+      "mq-lesson-034",
+      "mq-lesson-035",
+      "mq-lesson-036",
+      "mq-lesson-037",
+      "mq-lesson-038",
+      "mq-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-04",
+    "order": 4,
+    "slug": "Kafka架构",
+    "title": "Kafka基础架构",
+    "description": "Kafka组件、Broker、Controller、ZooKeeper。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "Kafka基础架构"
+    ],
+    "lessonIds": [
+      "mq-lesson-040",
+      "mq-lesson-041",
+      "mq-lesson-042",
+      "mq-lesson-043",
+      "mq-lesson-044",
+      "mq-lesson-045",
+      "mq-lesson-046",
+      "mq-lesson-047",
+      "mq-lesson-048",
+      "mq-lesson-049",
+      "mq-lesson-050",
+      "mq-lesson-051",
+      "mq-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-05",
+    "order": 5,
+    "slug": "Topic分区",
+    "title": "Topic、Partition、Offset与Consumer Group",
+    "description": "分区机制、Offset管理、消费组、Rebalance。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "Topic、Partition、Offset与Consumer Group"
+    ],
+    "lessonIds": [
+      "mq-lesson-053",
+      "mq-lesson-054",
+      "mq-lesson-055",
+      "mq-lesson-056",
+      "mq-lesson-057",
+      "mq-lesson-058",
+      "mq-lesson-059",
+      "mq-lesson-060",
+      "mq-lesson-061",
+      "mq-lesson-062",
+      "mq-lesson-063",
+      "mq-lesson-064",
+      "mq-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-06",
+    "order": 6,
+    "slug": "Kafka可靠性",
+    "title": "Kafka生产者、消费者与可靠性",
+    "description": "ACK机制、ISR、消息确认、幂等生产者。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "Kafka生产者、消费者与可靠性"
+    ],
+    "lessonIds": [
+      "mq-lesson-066",
+      "mq-lesson-067",
+      "mq-lesson-068",
+      "mq-lesson-069",
+      "mq-lesson-070",
+      "mq-lesson-071",
+      "mq-lesson-072",
+      "mq-lesson-073",
+      "mq-lesson-074",
+      "mq-lesson-075",
+      "mq-lesson-076",
+      "mq-lesson-077",
+      "mq-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-07",
+    "order": 7,
+    "slug": "Kafka顺序幂等",
+    "title": "Kafka顺序性、重复消费与幂等",
+    "description": "顺序消息实现、重复消费原因、幂等方案。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "Kafka顺序性、重复消费与幂等"
+    ],
+    "lessonIds": [
+      "mq-lesson-079",
+      "mq-lesson-080",
+      "mq-lesson-081",
+      "mq-lesson-082",
+      "mq-lesson-083",
+      "mq-lesson-084",
+      "mq-lesson-085",
+      "mq-lesson-086",
+      "mq-lesson-087",
+      "mq-lesson-088",
+      "mq-lesson-089",
+      "mq-lesson-090",
+      "mq-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-08",
+    "order": 8,
+    "slug": "Kafka性能",
+    "title": "Kafka性能、存储与日志机制",
+    "description": "顺序写、零拷贝、批量发送、压缩、日志分段。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "Kafka性能、存储与日志机制"
+    ],
+    "lessonIds": [
+      "mq-lesson-092",
+      "mq-lesson-093",
+      "mq-lesson-094",
+      "mq-lesson-095",
+      "mq-lesson-096",
+      "mq-lesson-097",
+      "mq-lesson-098",
+      "mq-lesson-099",
+      "mq-lesson-100",
+      "mq-lesson-101",
+      "mq-lesson-102",
+      "mq-lesson-103",
+      "mq-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-09",
+    "order": 9,
+    "slug": "RabbitMQ",
+    "title": "RabbitMQ基础与交换机模型",
+    "description": "Exchange类型、Binding、ACK、NACK、死信队列。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "RabbitMQ基础与交换机模型"
+    ],
+    "lessonIds": [
+      "mq-lesson-105",
+      "mq-lesson-106",
+      "mq-lesson-107",
+      "mq-lesson-108",
+      "mq-lesson-109",
+      "mq-lesson-110",
+      "mq-lesson-111",
+      "mq-lesson-112",
+      "mq-lesson-113",
+      "mq-lesson-114",
+      "mq-lesson-115",
+      "mq-lesson-116",
+      "mq-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-10",
+    "order": 10,
+    "slug": "死信延迟",
+    "title": "死信队列、延迟消息与重试机制",
+    "description": "DLX、TTL、延迟消息实现、重试策略。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "死信队列、延迟消息与重试机制"
+    ],
+    "lessonIds": [
+      "mq-lesson-118",
+      "mq-lesson-119",
+      "mq-lesson-120",
+      "mq-lesson-121",
+      "mq-lesson-122",
+      "mq-lesson-123",
+      "mq-lesson-124",
+      "mq-lesson-125",
+      "mq-lesson-126",
+      "mq-lesson-127",
+      "mq-lesson-128",
+      "mq-lesson-129",
+      "mq-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-11",
+    "order": 11,
+    "slug": "RocketMQ",
+    "title": "RocketMQ入门与业务消息场景",
+    "description": "RocketMQ组件、事务消息、顺序消息、批量消息。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "RocketMQ入门与业务消息场景"
+    ],
+    "lessonIds": [
+      "mq-lesson-131",
+      "mq-lesson-132",
+      "mq-lesson-133",
+      "mq-lesson-134",
+      "mq-lesson-135",
+      "mq-lesson-136",
+      "mq-lesson-137",
+      "mq-lesson-138",
+      "mq-lesson-139",
+      "mq-lesson-140",
+      "mq-lesson-141",
+      "mq-lesson-142",
+      "mq-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-12",
+    "order": 12,
+    "slug": "MQ最终一致性",
+    "title": "MQ与微服务最终一致性",
+    "description": "事务消息、半消息、Outbox模式、本地消息表。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "MQ与微服务最终一致性"
+    ],
+    "lessonIds": [
+      "mq-lesson-144",
+      "mq-lesson-145",
+      "mq-lesson-146",
+      "mq-lesson-147",
+      "mq-lesson-148",
+      "mq-lesson-149",
+      "mq-lesson-150",
+      "mq-lesson-151",
+      "mq-lesson-152",
+      "mq-lesson-153",
+      "mq-lesson-154",
+      "mq-lesson-155",
+      "mq-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-13",
+    "order": 13,
+    "slug": "MQ监控排错",
+    "title": "消息系统监控、排错与性能优化",
+    "description": "消费延迟监控、积压排查、慢消费者、扩容方案。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "消息系统监控、排错与性能优化"
+    ],
+    "lessonIds": [
+      "mq-lesson-157",
+      "mq-lesson-158",
+      "mq-lesson-159",
+      "mq-lesson-160",
+      "mq-lesson-161",
+      "mq-lesson-162",
+      "mq-lesson-163",
+      "mq-lesson-164",
+      "mq-lesson-165",
+      "mq-lesson-166",
+      "mq-lesson-167",
+      "mq-lesson-168",
+      "mq-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "mq-course-14",
+    "order": 14,
+    "slug": "MQ项目面试",
+    "title": "消息队列项目实战、面试与架构训练",
+    "description": "完整消息系统项目、面试题、架构设计。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "消息队列项目实战、面试与架构训练"
+    ],
+    "lessonIds": [
+      "mq-lesson-170",
+      "mq-lesson-171",
+      "mq-lesson-172",
+      "mq-lesson-173",
+      "mq-lesson-174",
+      "mq-lesson-175",
+      "mq-lesson-176",
+      "mq-lesson-177",
+      "mq-lesson-178",
+      "mq-lesson-179",
+      "mq-lesson-180",
+      "mq-lesson-181",
+      "mq-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解消息队列原理",
+      "掌握Kafka核心",
+      "会可靠消息方案",
+      "完成MQ项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

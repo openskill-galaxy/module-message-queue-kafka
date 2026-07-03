@@ -1,0 +1,41 @@
+{
+  "id": "mod-message-queue-kafka",
+  "slug": "module-message-queue-kafka",
+  "title": "消息队列、Kafka与异步系统",
+  "subtitle": "面向后端和分布式架构学习者",
+  "description": "面向后端微服务数据工程和高并发系统学习者的消息队列异步解耦削峰填谷KafaRabbitMQTopicPartition消费组可靠投递幂等消费与项目实战训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "消息队列",
+    "Kafka",
+    "RabbitMQ",
+    "异步系统",
+    "削峰填谷",
+    "消费组",
+    "幂等",
+    "分布式架构"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "advanced",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "📨",
+  "repoUrl": "https://github.com/openskill-galaxy/module-message-queue-kafka",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 131
+  }
+}
