@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-message-queue-kafka-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [消息队列、Kafka与异步系统] 的过程里，关于“消息队列、Kafka与异步系统 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "在 Kafka 中，一个 Topic 的并行消费能力主要由什么决定？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "Topic 的分区（Partition）数量" },
+      { "key": "B", "text": "Broker 节点的 CPU 核数" },
+      { "key": "C", "text": "消息体的平均大小" },
+      { "key": "D", "text": "ZooKeeper 集群的节点数量" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“消息队列、Kafka与异步系统 环境依赖搭建与运行机制”的正确答案为 A。解析：在 消息队列、Kafka与异步系统 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "消息队列、Kafka与异步系统",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "同一个消费组内，一个分区同一时刻只能被一个消费者实例消费，因此分区数决定了消费组内的最大并行度。消费者实例数超过分区数时，多余的实例会空闲。CPU 核数、消息大小影响吞吐但不决定并行上限，新版 Kafka 已用 KRaft 替代 ZooKeeper，它更与元数据管理相关。",
+    "tags": ["Kafka", "分区"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-message-queue-kafka-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [消息队列、Kafka与异步系统] 的过程里，关于“消息队列、Kafka与异步系统 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "电商大促场景下，下单请求瞬时峰值远超数据库处理能力。引入消息队列后，将下单请求先写入队列、下游按自身速率消费，这种用法体现了消息队列的哪种核心价值？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "削峰填谷" },
+      { "key": "B", "text": "服务发现" },
+      { "key": "C", "text": "负载均衡路由" },
+      { "key": "D", "text": "数据加密传输" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“消息队列、Kafka与异步系统 配置文件覆盖与属性解析”的正确答案为 A。解析：在 消息队列、Kafka与异步系统 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "消息队列、Kafka与异步系统",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "把突发流量先缓冲在队列中，下游以稳定速率消费，避免瞬时压力击垮数据库，这就是典型的削峰填谷。消息队列的三大经典价值是解耦、异步、削峰；服务发现属于注册中心职责，负载均衡与加密不是队列的核心目标。",
+    "tags": ["消息队列", "削峰填谷"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-message-queue-kafka-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [消息队列、Kafka与异步系统] 的过程里，关于“消息队列、Kafka与异步系统 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "Kafka 生产者设置 acks=all（且 min.insync.replicas=2、副本数 3）时，一条消息在什么情况下才被确认写入成功？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "所有处于 ISR 集合中的副本都完成写入" },
+      { "key": "B", "text": "仅 Leader 副本写入本地日志即可" },
+      { "key": "C", "text": "消息进入生产者本地缓冲区即可" },
+      { "key": "D", "text": "消费者拉取到该消息之后" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“消息队列、Kafka与异步系统 API 接口规范与数据通信”的正确答案为 A。解析：在 消息队列、Kafka与异步系统 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "消息队列、Kafka与异步系统",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "acks=all 表示 Leader 必须等待 ISR（同步副本集合）中所有副本都写入成功才返回确认，配合 min.insync.replicas 可以保证至少 2 个副本持久化，提供最强的可靠性。acks=1 才是仅 Leader 写入即确认；acks=0 是发出即认为成功；消费者是否消费与生产确认无关。",
+    "tags": ["Kafka", "可靠性", "ISR"],
     "difficulty": "medium",
-    "chapter": "course-2",
+    "chapter": "mod-message-queue-kafka-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-message-queue-kafka-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [消息队列、Kafka与异步系统] 的过程里，关于“消息队列、Kafka与异步系统 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "Kafka 能实现高吞吐写入，与下列哪一组底层设计关系最直接？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "顺序追加写日志 + 页缓存 + 零拷贝（sendfile）" },
+      { "key": "B", "text": "B+ 树索引 + 随机写 + 行级锁" },
+      { "key": "C", "text": "全量内存存储 + 定期全量快照" },
+      { "key": "D", "text": "两阶段提交 + 全局分布式锁" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“消息队列、Kafka与异步系统 核心控制器与数据校验机制”的正确答案为 A。解析：在 消息队列、Kafka与异步系统 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "消息队列、Kafka与异步系统",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "Kafka 将消息以顺序追加方式写入分区日志文件，充分利用操作系统页缓存，消费时通过 sendfile 零拷贝把数据从页缓存直接送到网卡，避免用户态拷贝，这是其高吞吐的关键。B+ 树随机写是数据库的做法；Kafka 并非纯内存存储，普通写入也不依赖两阶段提交。",
+    "tags": ["Kafka", "性能优化", "零拷贝"],
     "difficulty": "medium",
-    "chapter": "course-2",
+    "chapter": "mod-message-queue-kafka-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-message-queue-kafka-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [消息队列、Kafka与异步系统] 的过程里，关于“消息队列、Kafka与异步系统 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "同一消费组（Consumer Group）内有 4 个消费者实例，订阅的 Topic 只有 3 个分区，会出现什么情况？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "有 1 个消费者实例分不到分区，处于空闲状态" },
+      { "key": "B", "text": "4 个消费者轮流消费所有分区的消息" },
+      { "key": "C", "text": "其中一个分区会被两个消费者同时消费" },
+      { "key": "D", "text": "Kafka 会自动把 Topic 扩容为 4 个分区" }
     ],
-    "answer": [
-      "0"
+    "answer": ["A"],
+    "explanation": "组内分配以分区为最小单位，一个分区在同一消费组内只会分配给一个消费者。3 个分区最多让 3 个实例工作，第 4 个实例空闲，可作为热备。Kafka 不会因消费者数量自动增加分区，同组内也不允许两个消费者同时消费同一分区。",
+    "tags": ["消费组", "分区分配"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-6",
+    "slug": "question-6",
+    "type": "single",
+    "stem": "消费者拉取消息后先处理业务、再提交位移（offset），若处理成功后、提交前进程崩溃，重启后会发生什么？",
+    "options": [
+      { "key": "A", "text": "该批消息会被重新消费，产生重复，语义为至少一次（at-least-once）" },
+      { "key": "B", "text": "该批消息永久丢失，语义为至多一次（at-most-once）" },
+      { "key": "C", "text": "Kafka 自动感知业务已处理完成并跳过这批消息" },
+      { "key": "D", "text": "分区会被锁定，无法继续消费" }
     ],
-    "explanation": "关于“消息队列、Kafka与异步系统 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 消息队列、Kafka与异步系统 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "消息队列、Kafka与异步系统",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "先处理后提交时，崩溃点若在处理之后、提交之前，位移仍停留在旧值，重启后会从旧位移重新拉取，导致重复消费，即 at-least-once。反过来先提交后处理才可能丢消息（at-most-once）。Kafka 无法感知业务侧处理结果，也不会锁定分区。",
+    "tags": ["位移提交", "消费语义"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-message-queue-kafka-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "为保证「同一个订单的状态变更消息严格有序」，最合理的 Kafka 生产端做法是？",
+    "options": [
+      { "key": "A", "text": "以订单 ID 作为消息 Key，让同一订单的消息路由到同一分区" },
+      { "key": "B", "text": "把 Topic 的分区数设置得尽量多" },
+      { "key": "C", "text": "生产者开启多线程并发发送提高速度" },
+      { "key": "D", "text": "消费者端按时间戳对消息重新排序" }
+    ],
+    "answer": ["A"],
+    "explanation": "Kafka 只保证单分区内消息有序。用订单 ID 做 Key，默认分区器会对 Key 取哈希，同一订单的消息稳定落在同一分区，从而保证该订单维度的顺序。增加分区数反而分散消息；多线程发送可能打乱顺序；消费端按时间戳重排序复杂且不可靠。",
+    "tags": ["Kafka", "消息顺序", "分区路由"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "关于 RabbitMQ 与 Kafka 的定位差异，下列说法最准确的是？",
+    "options": [
+      { "key": "A", "text": "RabbitMQ 基于 AMQP、路由能力灵活，适合业务消息；Kafka 面向高吞吐日志流，适合大数据管道与流处理" },
+      { "key": "B", "text": "两者协议与架构完全一致，仅开发语言不同" },
+      { "key": "C", "text": "Kafka 的单条消息路由规则比 RabbitMQ 更丰富" },
+      { "key": "D", "text": "RabbitMQ 的吞吐量在任何场景下都高于 Kafka" }
+    ],
+    "answer": ["A"],
+    "explanation": "RabbitMQ 实现 AMQP 协议，提供 direct、topic、fanout、headers 等交换机路由，适合复杂业务消息分发；Kafka 以分区日志为核心抽象，路由较简单但吞吐极高、支持消息回溯，广泛用于日志采集与流式计算。B、C、D 均与事实相反。",
+    "tags": ["RabbitMQ", "Kafka", "选型"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "某消费者反复消费一条格式错误的消息，每次处理抛异常导致不断重试、阻塞后续消息。工程上处理这种「毒丸消息」的常见方案是？",
+    "options": [
+      { "key": "A", "text": "重试若干次后将消息投递到死信队列（DLQ），人工或异步排查" },
+      { "key": "B", "text": "无限重试直到消息处理成功" },
+      { "key": "C", "text": "直接删除整个 Topic 的历史数据" },
+      { "key": "D", "text": "把消费组的所有消费者全部停机" }
+    ],
+    "answer": ["A"],
+    "explanation": "毒丸消息无法通过重试解决，正确做法是设置有限重试次数，超限后转入死信队列并告警，既不阻塞正常消息流，又保留问题现场供排查。无限重试会永久阻塞分区；删 Topic 和停机代价过大且不解决根因。",
+    "tags": ["死信队列", "异常处理"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "Kafka 消费者组发生 Rebalance（再均衡）时，下列哪个描述是正确的？",
+    "options": [
+      { "key": "A", "text": "Eager 协议下 Rebalance 期间组内消费者会暂停消费，频繁 Rebalance 会显著影响可用性" },
+      { "key": "B", "text": "Rebalance 只在集群扩容 Broker 时才会发生" },
+      { "key": "C", "text": "Rebalance 过程中消息会被自动删除" },
+      { "key": "D", "text": "Rebalance 由生产者发起并主导分配" }
+    ],
+    "answer": ["A"],
+    "explanation": "消费者加入/退出、心跳超时、订阅分区数变化等都会触发 Rebalance。传统 Eager 协议下所有消费者先撤销全部分区再重新分配，期间停止消费（stop-the-world），因此要通过合理设置 session.timeout.ms、max.poll.interval.ms 及采用 Cooperative 协议来减少影响。Rebalance 由组协调器与组内 Leader 消费者协作完成，与 Broker 扩容无必然关系，也不会删除消息。",
+    "tags": ["Rebalance", "消费组"],
+    "difficulty": "hard",
+    "chapter": "mod-message-queue-kafka-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-message-queue-kafka-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "支付服务消费「支付成功」消息时可能收到重复消息。为保证扣减库存不被重复执行，最推荐的消费端设计是？",
+    "options": [
+      { "key": "A", "text": "以业务唯一键（如订单号）做幂等判断，已处理过的消息直接跳过" },
+      { "key": "B", "text": "相信消息队列不会投递重复消息，无需处理" },
+      { "key": "C", "text": "每次消费前先睡眠 5 秒降低重复概率" },
+      { "key": "D", "text": "把消费者数量减为 1 个来避免重复" }
+    ],
+    "answer": ["A"],
+    "explanation": "在 at-least-once 语义下重复投递不可避免，消费端必须自行保证幂等：用订单号等唯一键在数据库唯一索引、去重表或 Redis 中判重，重复消息直接忽略。睡眠不改变语义，单消费者也无法避免重试导致的重复，方案 B 的前提本身就是错的。",
+    "tags": ["幂等", "重复消费"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "监控发现某消费组的 Consumer Lag（消费位移落后量）持续增长，最不可能的原因是？",
+    "options": [
+      { "key": "A", "text": "生产者发送消息的压缩算法从 gzip 换成了 lz4" },
+      { "key": "B", "text": "下游依赖的数据库变慢导致单条消息处理耗时上升" },
+      { "key": "C", "text": "上游流量激增，生产速率超过消费速率" },
+      { "key": "D", "text": "某消费者实例频繁 Full GC 导致处理停顿" }
+    ],
+    "answer": ["A"],
+    "explanation": "Lag 增长的本质是生产速率持续大于消费速率：下游变慢、流量激增、消费者 GC 停顿都会直接造成这一失衡。而压缩算法从 gzip 换成 lz4 通常降低 CPU 开销、加快解压速度，一般不会导致 Lag 持续增长，是最不可能的原因。",
+    "tags": ["Consumer Lag", "监控"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "Kafka 分区的 Leader 副本所在 Broker 宕机后，集群的标准处理流程是？",
+    "options": [
+      { "key": "A", "text": "Controller 从该分区的 ISR 中选举一个 Follower 成为新 Leader，继续对外服务" },
+      { "key": "B", "text": "该分区永久不可用，数据全部丢失" },
+      { "key": "C", "text": "生产者直接把消息写到任意一个 Follower 副本" },
+      { "key": "D", "text": "所有 Topic 全部停止读写，等待人工恢复" }
+    ],
+    "answer": ["A"],
+    "explanation": "Kafka 的 Controller 监听 Broker 状态，Leader 失效时从 ISR（与 Leader 保持同步的副本集合）中选出新 Leader，客户端刷新元数据后继续读写，这是 Kafka 高可用的核心机制。读写始终面向 Leader，Follower 不直接接收生产者写入；只有当 ISR 全部失效且不允许脏选举时分区才会暂时不可用。",
+    "tags": ["高可用", "Leader选举", "副本"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "关于 Kafka 的日志保留（retention）与消费的关系，正确的是？",
+    "options": [
+      { "key": "A", "text": "消息被消费后不会删除，仍按 retention 时间/大小策略保留，可供其他消费组重复读取" },
+      { "key": "B", "text": "消息一旦被任意消费者确认就立即从磁盘删除" },
+      { "key": "C", "text": "只有所有消费组都消费完，消息才会被删除" },
+      { "key": "D", "text": "Kafka 不删除任何数据，磁盘写满后集群停止服务" }
+    ],
+    "answer": ["A"],
+    "explanation": "Kafka 是基于日志的发布订阅系统，消费只是移动各消费组自己的位移，不影响数据本身；数据按 retention.ms/retention.bytes 策略（或 compact 策略）清理。这使得多个消费组可独立消费同一份数据，也支持位移回拨重放。B 是传统队列的行为，C、D 均不符合 Kafka 的清理机制。",
+    "tags": ["日志保留", "消息回溯"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-message-queue-kafka-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "下列哪些措施有助于防止 Kafka 生产端丢消息？（多选）",
+    "options": [
+      { "key": "A", "text": "设置 acks=all 并配置合理的 min.insync.replicas" },
+      { "key": "B", "text": "开启生产者重试（retries）并设置 enable.idempotence=true" },
+      { "key": "C", "text": "使用带回调的发送方式，对发送失败进行记录与补偿" },
+      { "key": "D", "text": "设置 acks=0 以获得最快的发送速度" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "acks=all 加 min.insync.replicas 保证多副本落盘；重试配合幂等生产者可在网络抖动时自动补发且不产生重复；回调可感知失败并补偿。acks=0 发出即认为成功，Broker 未收到也不会感知，是最容易丢消息的配置。",
+    "tags": ["可靠性", "生产者"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-message-queue-kafka-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "关于消息队列带来的架构收益，下列说法正确的有？（多选）",
+    "options": [
+      { "key": "A", "text": "上下游通过消息解耦，新增订阅方通常无需改动生产方代码" },
+      { "key": "B", "text": "耗时操作（如发短信、生成报表）异步化后可显著降低主链路响应时间" },
+      { "key": "C", "text": "引入消息队列后系统整体一致性自动变为强一致" },
+      { "key": "D", "text": "队列可以缓冲突发流量，保护下游存储与服务" }
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "解耦、异步、削峰是消息队列三大核心收益：生产方只管发消息，订阅方按需接入；耗时操作移出主链路；队列吸收峰值流量。但引入队列后上下游状态存在时间差，一致性从强一致退化为最终一致，C 恰好说反了，这也是使用消息队列必须付出的代价之一。",
+    "tags": ["架构设计", "异步系统"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-message-queue-kafka-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "下列哪些情况会触发 Kafka 消费组的 Rebalance？（多选）",
+    "options": [
+      { "key": "A", "text": "有新的消费者实例加入消费组" },
+      { "key": "B", "text": "某消费者超过 max.poll.interval.ms 未调用 poll 被判定离组" },
+      { "key": "C", "text": "订阅 Topic 的分区数量发生变化" },
+      { "key": "D", "text": "生产者更换了消息压缩算法" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "成员变化（加入、正常退出、心跳超时、poll 超时被踢出）与订阅元数据变化（分区数增加、正则订阅匹配到新 Topic）都会触发 Rebalance。生产者的压缩算法只影响消息编码，与消费组协调无关。",
+    "tags": ["Rebalance", "消费组"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-message-queue-kafka-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "要实现「下单成功后再发送订单消息，且两者要么都成功要么都失败」的可靠事件投递，工程上可行的方案有？（多选）",
+    "options": [
+      { "key": "A", "text": "本地消息表：业务与消息记录在同一数据库事务中落库，后台任务轮询补发" },
+      { "key": "B", "text": "事务消息（如 RocketMQ 半消息 + 事务回查机制）" },
+      { "key": "C", "text": "先发消息再执行本地事务，事务失败就不管已发出的消息" },
+      { "key": "D", "text": "CDC 方案：通过订阅数据库 Binlog 将订单变更转化为消息投递" }
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "本地消息表利用单库事务保证业务与待发消息原子落库，再异步投递并重试；事务消息通过半消息与回查实现最终一致；CDC 从 Binlog 捕获已提交的变更，天然与数据库状态一致。C 会在本地事务失败时留下无法撤回的脏消息，破坏一致性。",
+    "tags": ["分布式事务", "最终一致性"],
+    "difficulty": "hard",
+    "chapter": "mod-message-queue-kafka-c-3",
     "knowledge_points": [],
     "estimated_time": 5
   },
   {
-    "id": "mod-message-queue-kafka-q-6",
-    "slug": "question-course-3-7",
-    "type": "single",
-    "stem": "在学习 [消息队列、Kafka与异步系统] 的过程里，关于“消息队列、Kafka与异步系统 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
-    "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
-    ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“消息队列、Kafka与异步系统 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 消息队列、Kafka与异步系统 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "消息队列、Kafka与异步系统",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-3",
+    "id": "mod-message-queue-kafka-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：Kafka 只保证同一分区内的消息有序，不保证同一 Topic 跨分区的全局有序。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。Kafka 的有序性以分区为单位：分区内消息按追加顺序存储和消费；不同分区之间没有顺序约束。若需要全局有序只能使用单分区，但会牺牲并行度，实践中通常按业务键做到局部有序即可。",
+    "tags": ["消息顺序"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-message-queue-kafka-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：把 Kafka 消费者的 enable.auto.commit 设为 true（自动提交位移），就能完全避免消息的重复消费和丢失。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。自动提交按固定间隔提交「已拉取」的位移，与业务处理进度无关：若消息尚未处理完但位移已提交，崩溃后会丢消息；若处理完成但尚未到提交时刻就崩溃，则会重复消费。要更精细的控制需手动提交并配合幂等设计。",
+    "tags": ["位移提交", "消费语义"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-message-queue-kafka-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：Kafka 的分区数量可以在线增加，也可以随时在线减少。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。Kafka 支持在线增加分区（kafka-topics --alter），但不支持减少分区，因为缩减需要处理被删分区上的数据归属与顺序问题。此外增加分区会改变按 Key 哈希的路由结果，可能破坏既有的按 Key 有序性，扩分区前需要评估。",
+    "tags": ["分区管理"],
+    "difficulty": "medium",
+    "chapter": "mod-message-queue-kafka-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-message-queue-kafka-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：在异步化改造中，把「支付扣款」这类主链路强一致操作放入消息队列异步执行，是推荐的通用做法。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。异步化适用于可容忍延迟、允许最终一致的旁路操作（通知、积分、日志等）。扣款属于主链路强一致操作，用户需要立即得到确定结果，异步化会带来状态不确定与资金风险，应同步执行或使用事务性方案，而不是简单丢进队列。",
+    "tags": ["异步系统", "架构设计"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-message-queue-kafka-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "Kafka 中与 Leader 副本保持同步的副本集合简称是什么？（英文缩写）",
+    "options": [],
+    "answer": ["ISR|In-Sync Replicas|in-sync replicas|isr"],
+    "explanation": "ISR（In-Sync Replicas）指与 Leader 保持同步的副本集合（包含 Leader 自身）。落后过多的副本会被移出 ISR，追上后重新加入；acks=all 的确认范围就是 ISR，Leader 选举也默认只在 ISR 内进行。",
+    "tags": ["ISR", "副本"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-message-queue-kafka-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "消息队列的三大经典应用价值是：解耦、削峰，还有哪一个？（两个字）",
+    "options": [],
+    "answer": ["异步|异步化|异步处理"],
+    "explanation": "消息队列三大价值为解耦、异步、削峰。异步指把非核心耗时操作从主调用链路剥离，由消费者后台处理，从而缩短接口响应时间、提升用户体验；代价是业务从强一致变为最终一致，需要配套的补偿与监控机制。",
+    "tags": ["消息队列", "异步"],
+    "difficulty": "easy",
+    "chapter": "mod-message-queue-kafka-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
   }
 ]

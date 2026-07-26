@@ -5,11 +5,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001472",
-      "mq-q-002393",
-      "mq-q-003141"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -29,11 +25,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001184",
-      "mq-q-000039",
-      "mq-q-003198"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -53,11 +45,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002436",
-      "mq-q-002317",
-      "mq-q-003243"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -77,11 +65,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003269",
-      "mq-q-003220",
-      "mq-q-003582"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -101,11 +85,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000458",
-      "mq-q-002728",
-      "mq-q-001053"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -125,11 +105,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001573",
-      "mq-q-001569",
-      "mq-q-000922"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -149,11 +125,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003550",
-      "mq-q-000286",
-      "mq-q-001931"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -173,11 +145,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003435",
-      "mq-q-001553",
-      "mq-q-002422"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -197,11 +165,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000449",
-      "mq-q-003171",
-      "mq-q-002792"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -221,11 +185,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001504",
-      "mq-q-000190",
-      "mq-q-003001"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -245,11 +205,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002221",
-      "mq-q-000915",
-      "mq-q-001436"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -269,11 +225,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000016",
-      "mq-q-002357",
-      "mq-q-003360"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -293,11 +245,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001904",
-      "mq-q-000707",
-      "mq-q-002988"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -317,11 +265,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001271",
-      "mq-q-002357",
-      "mq-q-001821"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -341,11 +285,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001176",
-      "mq-q-000256",
-      "mq-q-000603"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -365,11 +305,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003130",
-      "mq-q-000637",
-      "mq-q-001931"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -389,11 +325,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001062",
-      "mq-q-000496",
-      "mq-q-001368"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -413,11 +345,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001755",
-      "mq-q-001719",
-      "mq-q-003401"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -437,11 +365,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001112",
-      "mq-q-003076",
-      "mq-q-001955"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -461,11 +385,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000346",
-      "mq-q-003456",
-      "mq-q-000670"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -485,11 +405,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003193",
-      "mq-q-000900",
-      "mq-q-003572"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -509,11 +425,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002453",
-      "mq-q-002991",
-      "mq-q-002779"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -533,11 +445,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001743",
-      "mq-q-002917",
-      "mq-q-003224"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -557,11 +465,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000630",
-      "mq-q-003108",
-      "mq-q-002996"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -581,11 +485,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002013",
-      "mq-q-002244",
-      "mq-q-000111"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -605,11 +505,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000005",
-      "mq-q-002090",
-      "mq-q-000705"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -629,11 +525,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000083",
-      "mq-q-002523",
-      "mq-q-001207"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -653,11 +545,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000430",
-      "mq-q-002184",
-      "mq-q-003164"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -677,11 +565,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002484",
-      "mq-q-003480",
-      "mq-q-001662"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -701,11 +585,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001994",
-      "mq-q-002613",
-      "mq-q-001696"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -725,11 +605,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001418",
-      "mq-q-002020",
-      "mq-q-003107"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -749,11 +625,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002451",
-      "mq-q-003292",
-      "mq-q-003615"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -773,11 +645,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000899",
-      "mq-q-000127",
-      "mq-q-000950"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -797,11 +665,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002751",
-      "mq-q-000615",
-      "mq-q-000800"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -821,11 +685,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002502",
-      "mq-q-001230",
-      "mq-q-002186"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -845,11 +705,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000968",
-      "mq-q-002146",
-      "mq-q-001311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -869,11 +725,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000108",
-      "mq-q-000400",
-      "mq-q-003575"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -893,11 +745,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002716",
-      "mq-q-001865",
-      "mq-q-002595"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -917,11 +765,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001264",
-      "mq-q-002673",
-      "mq-q-003085"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -941,11 +785,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000142",
-      "mq-q-003266",
-      "mq-q-002492"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -965,11 +805,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002951",
-      "mq-q-002492",
-      "mq-q-000799"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -989,11 +825,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002216",
-      "mq-q-002693",
-      "mq-q-000952"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000737",
-      "mq-q-001692",
-      "mq-q-000484"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000513",
-      "mq-q-000698",
-      "mq-q-001460"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002670",
-      "mq-q-000892",
-      "mq-q-002959"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003101",
-      "mq-q-002289",
-      "mq-q-000103"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003370",
-      "mq-q-003487",
-      "mq-q-000477"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003072",
-      "mq-q-001484",
-      "mq-q-000662"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001389",
-      "mq-q-000521",
-      "mq-q-002650"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001021",
-      "mq-q-000097",
-      "mq-q-003207"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003679",
-      "mq-q-001461",
-      "mq-q-000631"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001632",
-      "mq-q-003058",
-      "mq-q-002786"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002930",
-      "mq-q-002816",
-      "mq-q-000279"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000577",
-      "mq-q-000069",
-      "mq-q-003006"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000766",
-      "mq-q-000517",
-      "mq-q-001334"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001463",
-      "mq-q-001230",
-      "mq-q-000189"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000646",
-      "mq-q-001102",
-      "mq-q-003087"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002179",
-      "mq-q-002709",
-      "mq-q-000179"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002295",
-      "mq-q-003371",
-      "mq-q-003452"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001668",
-      "mq-q-000240",
-      "mq-q-000990"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001507",
-      "mq-q-002505",
-      "mq-q-000652"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001513",
-      "mq-q-003406",
-      "mq-q-003411"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002789",
-      "mq-q-001544",
-      "mq-q-003612"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000925",
-      "mq-q-001064",
-      "mq-q-003698"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003053",
-      "mq-q-001275",
-      "mq-q-002129"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003451",
-      "mq-q-003464",
-      "mq-q-003497"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003401",
-      "mq-q-001306",
-      "mq-q-001511"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002519",
-      "mq-q-001410",
-      "mq-q-002610"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002317",
-      "mq-q-001934",
-      "mq-q-000108"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000282",
-      "mq-q-002376",
-      "mq-q-000054"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002114",
-      "mq-q-002170",
-      "mq-q-000871"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002395",
-      "mq-q-003363",
-      "mq-q-001321"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003341",
-      "mq-q-001173",
-      "mq-q-001889"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002568",
-      "mq-q-000844",
-      "mq-q-001520"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001660",
-      "mq-q-000516",
-      "mq-q-002276"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000834",
-      "mq-q-002791",
-      "mq-q-003083"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-001031",
-      "mq-q-001665",
-      "mq-q-003645"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-003614",
-      "mq-q-002468",
-      "mq-q-000649"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-000104",
-      "mq-q-002782",
-      "mq-q-003403"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "mq-q-002354",
-      "mq-q-000806",
-      "mq-q-002339"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001704",
-      "mq-q-003339",
-      "mq-q-000479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000925",
-      "mq-q-001099",
-      "mq-q-000971"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003627",
-      "mq-q-000516",
-      "mq-q-002147"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003368",
-      "mq-q-001067",
-      "mq-q-000281"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003160",
-      "mq-q-001492",
-      "mq-q-001774"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001223",
-      "mq-q-002710",
-      "mq-q-001160"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000783",
-      "mq-q-000041",
-      "mq-q-001801"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000536",
-      "mq-q-000737",
-      "mq-q-001290"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002571",
-      "mq-q-002485",
-      "mq-q-003392"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002841",
-      "mq-q-003255",
-      "mq-q-002052"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000852",
-      "mq-q-003408",
-      "mq-q-000555"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003685",
-      "mq-q-001688",
-      "mq-q-001251"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000439",
-      "mq-q-002876",
-      "mq-q-000394"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001142",
-      "mq-q-003206",
-      "mq-q-003358"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002622",
-      "mq-q-002801",
-      "mq-q-003085"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003268",
-      "mq-q-001803",
-      "mq-q-002816"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001115",
-      "mq-q-003301",
-      "mq-q-002217"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003201",
-      "mq-q-003540",
-      "mq-q-000319"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002399",
-      "mq-q-001077",
-      "mq-q-000544"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000029",
-      "mq-q-003330",
-      "mq-q-000780"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001730",
-      "mq-q-000099",
-      "mq-q-001869"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002063",
-      "mq-q-000747",
-      "mq-q-003489"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003286",
-      "mq-q-001771",
-      "mq-q-002277"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002190",
-      "mq-q-001529",
-      "mq-q-000804"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003165",
-      "mq-q-002307",
-      "mq-q-003018"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003214",
-      "mq-q-000962",
-      "mq-q-002605"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001151",
-      "mq-q-003373",
-      "mq-q-002681"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001734",
-      "mq-q-000426",
-      "mq-q-003615"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000761",
-      "mq-q-001627",
-      "mq-q-000881"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000575",
-      "mq-q-001102",
-      "mq-q-000310"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000857",
-      "mq-q-001691",
-      "mq-q-001870"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000600",
-      "mq-q-002167",
-      "mq-q-001800"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002073",
-      "mq-q-001998",
-      "mq-q-000512"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002250",
-      "mq-q-002316",
-      "mq-q-000285"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000113",
-      "mq-q-003424",
-      "mq-q-002319"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000241",
-      "mq-q-002314",
-      "mq-q-000077"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001616",
-      "mq-q-002253",
-      "mq-q-000709"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002302",
-      "mq-q-002112",
-      "mq-q-001452"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000033",
-      "mq-q-000776",
-      "mq-q-000839"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000126",
-      "mq-q-000501",
-      "mq-q-003395"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000602",
-      "mq-q-002519",
-      "mq-q-000849"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000214",
-      "mq-q-001080",
-      "mq-q-001994"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002139",
-      "mq-q-003132",
-      "mq-q-000967"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002063",
-      "mq-q-001725",
-      "mq-q-001489"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000554",
-      "mq-q-003634",
-      "mq-q-000145"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003480",
-      "mq-q-002213",
-      "mq-q-002522"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002759",
-      "mq-q-001161",
-      "mq-q-003452"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003193",
-      "mq-q-003274",
-      "mq-q-000557"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001084",
-      "mq-q-000136",
-      "mq-q-000116"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002871",
-      "mq-q-001179",
-      "mq-q-003324"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002195",
-      "mq-q-001243",
-      "mq-q-002917"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001248",
-      "mq-q-000518",
-      "mq-q-003467"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003091",
-      "mq-q-001384",
-      "mq-q-000251"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000606",
-      "mq-q-001996",
-      "mq-q-002040"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000042",
-      "mq-q-001181",
-      "mq-q-002385"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000523",
-      "mq-q-000469",
-      "mq-q-000125"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002241",
-      "mq-q-001390",
-      "mq-q-002984"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002414",
-      "mq-q-001341",
-      "mq-q-001331"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000161",
-      "mq-q-002074",
-      "mq-q-000485"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002600",
-      "mq-q-001863",
-      "mq-q-002652"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001342",
-      "mq-q-001133",
-      "mq-q-002525"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000165",
-      "mq-q-000989",
-      "mq-q-001878"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000731",
-      "mq-q-002031",
-      "mq-q-001770"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002687",
-      "mq-q-003602",
-      "mq-q-003249"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002019",
-      "mq-q-003239",
-      "mq-q-001863"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002366",
-      "mq-q-001918",
-      "mq-q-002975"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000824",
-      "mq-q-002783",
-      "mq-q-001923"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003464",
-      "mq-q-002138",
-      "mq-q-002108"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002876",
-      "mq-q-000882",
-      "mq-q-001206"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003569",
-      "mq-q-000278",
-      "mq-q-000609"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002574",
-      "mq-q-002650",
-      "mq-q-002562"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000883",
-      "mq-q-001230",
-      "mq-q-001409"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000233",
-      "mq-q-001851",
-      "mq-q-000332"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002525",
-      "mq-q-003314",
-      "mq-q-001008"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-003373",
-      "mq-q-003074",
-      "mq-q-000300"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001591",
-      "mq-q-002169",
-      "mq-q-001928"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002973",
-      "mq-q-000049",
-      "mq-q-001950"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-002476",
-      "mq-q-003143",
-      "mq-q-002661"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-000786",
-      "mq-q-002362",
-      "mq-q-000021"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "mq-q-001738",
-      "mq-q-000996",
-      "mq-q-003664"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002827",
-      "mq-q-001728",
-      "mq-q-002261"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000040",
-      "mq-q-000658",
-      "mq-q-001340"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001305",
-      "mq-q-001684",
-      "mq-q-003395"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002737",
-      "mq-q-001549",
-      "mq-q-003202"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001717",
-      "mq-q-001489",
-      "mq-q-002479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001913",
-      "mq-q-000868",
-      "mq-q-003147"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002748",
-      "mq-q-002820",
-      "mq-q-000658"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000894",
-      "mq-q-002429",
-      "mq-q-002976"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000615",
-      "mq-q-003137",
-      "mq-q-002124"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002417",
-      "mq-q-003510",
-      "mq-q-000037"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002238",
-      "mq-q-002365",
-      "mq-q-000911"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001763",
-      "mq-q-000851",
-      "mq-q-002935"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001478",
-      "mq-q-000724",
-      "mq-q-000668"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001343",
-      "mq-q-002125",
-      "mq-q-001731"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003450",
-      "mq-q-003135",
-      "mq-q-001712"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000627",
-      "mq-q-000998",
-      "mq-q-000954"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003335",
-      "mq-q-001339",
-      "mq-q-001062"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002203",
-      "mq-q-000720",
-      "mq-q-003477"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000257",
-      "mq-q-000244",
-      "mq-q-003692"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003370",
-      "mq-q-002254",
-      "mq-q-001544"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003677",
-      "mq-q-001941",
-      "mq-q-002833"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002756",
-      "mq-q-000462",
-      "mq-q-001681"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000342",
-      "mq-q-002793",
-      "mq-q-000099"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001261",
-      "mq-q-001738",
-      "mq-q-002979"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000207",
-      "mq-q-002160",
-      "mq-q-000772"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002102",
-      "mq-q-002648",
-      "mq-q-000752"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001277",
-      "mq-q-001125",
-      "mq-q-002552"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000111",
-      "mq-q-001160",
-      "mq-q-001709"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002938",
-      "mq-q-002259",
-      "mq-q-003219"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003136",
-      "mq-q-002115",
-      "mq-q-001484"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002306",
-      "mq-q-000619",
-      "mq-q-003236"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001544",
-      "mq-q-002345",
-      "mq-q-002025"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002163",
-      "mq-q-002629",
-      "mq-q-001412"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000293",
-      "mq-q-002895",
-      "mq-q-003051"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000457",
-      "mq-q-002362",
-      "mq-q-002654"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000006",
-      "mq-q-002832",
-      "mq-q-001138"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002306",
-      "mq-q-001788",
-      "mq-q-000946"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002208",
-      "mq-q-000183",
-      "mq-q-001177"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001081",
-      "mq-q-002882",
-      "mq-q-002190"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002862",
-      "mq-q-002358",
-      "mq-q-001371"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000662",
-      "mq-q-000910",
-      "mq-q-002929"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002625",
-      "mq-q-003621",
-      "mq-q-001133"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002282",
-      "mq-q-001246",
-      "mq-q-001501"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000301",
-      "mq-q-003374",
-      "mq-q-003206"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003426",
-      "mq-q-002524",
-      "mq-q-002337"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000715",
-      "mq-q-000944",
-      "mq-q-002018"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001263",
-      "mq-q-000058",
-      "mq-q-002800"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001131",
-      "mq-q-003138",
-      "mq-q-003042"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001020",
-      "mq-q-001285",
-      "mq-q-002314"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001441",
-      "mq-q-000472",
-      "mq-q-001256"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001474",
-      "mq-q-001534",
-      "mq-q-003204"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002271",
-      "mq-q-001819",
-      "mq-q-003009"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003636",
-      "mq-q-000667",
-      "mq-q-001367"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000233",
-      "mq-q-002618",
-      "mq-q-003127"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000447",
-      "mq-q-002215",
-      "mq-q-001067"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002185",
-      "mq-q-000322",
-      "mq-q-003613"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001114",
-      "mq-q-003318",
-      "mq-q-002073"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000560",
-      "mq-q-001265",
-      "mq-q-001245"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000906",
-      "mq-q-002249",
-      "mq-q-001723"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002921",
-      "mq-q-000979",
-      "mq-q-000131"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001912",
-      "mq-q-003166",
-      "mq-q-000989"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003437",
-      "mq-q-002985",
-      "mq-q-003245"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000418",
-      "mq-q-000652",
-      "mq-q-003091"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000340",
-      "mq-q-002947",
-      "mq-q-000968"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001246",
-      "mq-q-001138",
-      "mq-q-000700"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000124",
-      "mq-q-003562",
-      "mq-q-000597"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002140",
-      "mq-q-002993",
-      "mq-q-000068"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002776",
-      "mq-q-002259",
-      "mq-q-001944"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003546",
-      "mq-q-000543",
-      "mq-q-001098"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000518",
-      "mq-q-001891",
-      "mq-q-001534"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003666",
-      "mq-q-003565",
-      "mq-q-001563"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003170",
-      "mq-q-001803",
-      "mq-q-002276"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001446",
-      "mq-q-001533",
-      "mq-q-002767"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000658",
-      "mq-q-002240",
-      "mq-q-002040"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000547",
-      "mq-q-002644",
-      "mq-q-003454"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000987",
-      "mq-q-003256",
-      "mq-q-001841"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001954",
-      "mq-q-000727",
-      "mq-q-003180"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002130",
-      "mq-q-000553",
-      "mq-q-001516"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003202",
-      "mq-q-003087",
-      "mq-q-001465"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001109",
-      "mq-q-001979",
-      "mq-q-003237"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003392",
-      "mq-q-001808",
-      "mq-q-001897"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过死信队列掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003584",
-      "mq-q-003557",
-      "mq-q-003363"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死信队列"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过延迟消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001267",
-      "mq-q-002587",
-      "mq-q-003152"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "延迟消息"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过分布式事务掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-001765",
-      "mq-q-001997",
-      "mq-q-000481"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布式事务"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过Outbox模式掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002377",
-      "mq-q-000881",
-      "mq-q-002930"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Outbox模式"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过RabbitMQ路由掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002029",
-      "mq-q-002905",
-      "mq-q-001225"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RabbitMQ路由"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过Kafka面试掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000935",
-      "mq-q-002200",
-      "mq-q-002949"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka面试"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过订单异步通知掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002407",
-      "mq-q-001182",
-      "mq-q-002255"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "订单异步通知"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过秒杀削峰掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000851",
-      "mq-q-000058",
-      "mq-q-002929"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "秒杀削峰"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过库存扣减掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003661",
-      "mq-q-002274",
-      "mq-q-000825"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "库存扣减"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过支付回调掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002032",
-      "mq-q-002193",
-      "mq-q-000916"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "支付回调"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过短信发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000543",
-      "mq-q-000169",
-      "mq-q-000584"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "短信发送"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过邮件发送掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000822",
-      "mq-q-003611",
-      "mq-q-002716"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "邮件发送"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过日志采集掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003628",
-      "mq-q-001100",
-      "mq-q-000975"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志采集"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过用户行为埋点掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-000030",
-      "mq-q-003399",
-      "mq-q-001401"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户行为埋点"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过Kafka消费组掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002604",
-      "mq-q-000951",
-      "mq-q-003578"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Kafka消费组"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过消息重复掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002753",
-      "mq-q-000616",
-      "mq-q-002972"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息重复"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过消息丢失掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-003015",
-      "mq-q-003087",
-      "mq-q-000756"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "消息丢失"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过积压治理掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002104",
-      "mq-q-001838",
-      "mq-q-002416"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "积压治理"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过顺序消息掌握MQ",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "mq-q-002186",
-      "mq-q-001571",
-      "mq-q-002390"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "顺序消息"
     ],

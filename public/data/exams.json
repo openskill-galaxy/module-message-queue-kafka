@@ -1,31 +1,61 @@
 [
   {
     "id": "mod-message-queue-kafka-exam-1",
-    "slug": "final-exam",
-    "title": "消息队列、Kafka与异步系统 核心期末综合自测",
-    "summary": "全面检验您对 消息队列、Kafka与异步系统 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "消息队列基础入门测验",
+    "summary": "覆盖消息队列核心价值、Kafka 分区与消费组等基础概念，适合入门自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-message-queue-kafka-q-1",
       "mod-message-queue-kafka-q-2",
-      "mod-message-queue-kafka-q-3",
-      "mod-message-queue-kafka-q-4",
       "mod-message-queue-kafka-q-5",
-      "mod-message-queue-kafka-q-6"
+      "mod-message-queue-kafka-q-8",
+      "mod-message-queue-kafka-q-14",
+      "mod-message-queue-kafka-q-16",
+      "mod-message-queue-kafka-q-19",
+      "mod-message-queue-kafka-q-24"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-message-queue-kafka-exam-2",
-    "slug": "basic-exam",
-    "title": "消息队列、Kafka与异步系统 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "Kafka 进阶强化测验",
+    "summary": "聚焦可靠性配置、消费语义、顺序性与 Rebalance 等进阶主题，检验实战理解。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-message-queue-kafka-q-1",
-      "mod-message-queue-kafka-q-2",
-      "mod-message-queue-kafka-q-3"
+      "mod-message-queue-kafka-q-3",
+      "mod-message-queue-kafka-q-4",
+      "mod-message-queue-kafka-q-6",
+      "mod-message-queue-kafka-q-7",
+      "mod-message-queue-kafka-q-11",
+      "mod-message-queue-kafka-q-13",
+      "mod-message-queue-kafka-q-15",
+      "mod-message-queue-kafka-q-17",
+      "mod-message-queue-kafka-q-20",
+      "mod-message-queue-kafka-q-21"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-message-queue-kafka-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "消息队列与异步系统综合模拟卷",
+    "summary": "综合基础与高阶考点，含毒丸消息处理、可靠事件投递与 Lag 排查等真实场景题。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-message-queue-kafka-q-3",
+      "mod-message-queue-kafka-q-9",
+      "mod-message-queue-kafka-q-10",
+      "mod-message-queue-kafka-q-12",
+      "mod-message-queue-kafka-q-13",
+      "mod-message-queue-kafka-q-15",
+      "mod-message-queue-kafka-q-18",
+      "mod-message-queue-kafka-q-20",
+      "mod-message-queue-kafka-q-22",
+      "mod-message-queue-kafka-q-23"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
